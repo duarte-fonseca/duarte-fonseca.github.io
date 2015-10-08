@@ -1,3 +1,10 @@
 = pic 2
 
 image::https://cloud.githubusercontent.com/assets/15033338/10372093/35479f56-6dde-11e5-8388-101562d61949.jpg[]
+
+![Small image](https://cloud.githubusercontent.com/assets/15033338/10372093/35479f56-6dde-11e5-8388-101562d61949.jpg)
+
+
+https://cloud.githubusercontent.com/assets/15033338/10372093/35479f56-6dde-11e5-8388-101562d61949.jpg
+
+---
