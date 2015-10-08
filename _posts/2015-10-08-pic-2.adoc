@@ -1,10 +1,22 @@
 = pic 2
 
-image::https://cloud.githubusercontent.com/assets/15033338/10372093/35479f56-6dde-11e5-8388-101562d61949.jpg[]
-
-![Small image](https://cloud.githubusercontent.com/assets/15033338/10372093/35479f56-6dde-11e5-8388-101562d61949.jpg#small)
+image::http://i.imgur.com/8V0xFZP.jpg[]
 
 
-https://cloud.githubusercontent.com/assets/15033338/10372093/35479f56-6dde-11e5-8388-101562d61949.jpg
+
+
 
 ---
+> cenas 
+e os bebes 
+> 
+
+
+
+
+cenas
+
+
+
+---
+
