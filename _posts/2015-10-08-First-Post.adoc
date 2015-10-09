@@ -1,8 +1,10 @@
-= pic 2
+= First Post!
 
 
 
-image::http://i.imgur.com/8V0xFZP.jpg[]
+
+
+image::http://i.imgur.com/8V0xFZP.jpg[Apple store in Hong Kong]
 
 
 
